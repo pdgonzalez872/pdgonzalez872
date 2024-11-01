@@ -9,4 +9,4 @@ I've worked with Elixir professionally since 2018 and think it's an incredible
 resource for businesses of any size. I'm slowly entering the frontend world
 thanks to LiveView and it's been a fantastic experience.
 
-Head over to my [blog](https://pdgonzalez872.github.io/), I hope you enjoy it!
+Head over to my <a href="https://pdgonzalez872.github.io" target="_blank">blog</a> for more, I hope you enjoy it!
